@@ -17,7 +17,7 @@ export default async function Home({ searchParams }) {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 className="App-title">Blogs - Unicode</h1>
+        <h1 className="App-title">Blogs - Docker</h1>
       </header>
       <ul>
         {blogs.map((blog) => (
